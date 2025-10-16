@@ -1,10 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilGerber/WilGerbe/main/willem_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WilGerbe/WilGerbe/main/willem_light.svg">
-  <img alt="Willem's GitHub Profile" src="https://raw.githubusercontent.com/WilGerbe/WilGerbe/main/willem_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilGerber/WilGerber/main/willem_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WilGerber/WilGerber/main/willem_light.svg">
+  <img alt="Willem's GitHub Profile" src="https://raw.githubusercontent.com/WilGerber/WilGerber/main/willem_light.svg">
 </picture>
 
 </div>
+
 
